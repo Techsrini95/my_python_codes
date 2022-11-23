@@ -1,4 +1,4 @@
-# matrix
+# matrix & function
 from numpy import *
 
 
